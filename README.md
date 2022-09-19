@@ -6,3 +6,5 @@ CRA(Create React-app) 으로 프로젝트 생성시 v18버전으로 생성됨
 react: 17.0.2
 react-dom: 17.0.2
 react-router-dom: 5.3.0
+
+- 24.2.2 리덕스로 폼상태 관리하기 (09.16)
